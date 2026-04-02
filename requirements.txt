@@ -1,0 +1,10 @@
+numpy
+scipy
+pandas
+librosa
+soundfile
+tqdm
+scikit-learn
+torch
+torchaudio
+transformers
